@@ -1,0 +1,45 @@
+label{
+    width:120px;
+    float:left;
+}
+
+
+.star{
+    color:red;
+}
+
+label.error{
+    float:none;
+    color:red;
+    padding-left: 20px;
+}
+
+#courses{
+    width:173px;
+    height:23px;
+}
+
+
+td{
+    
+text-align: center;
+}
+
+#btnsub{
+   background-color:powderblue;
+    color:black;
+}
+
+
+#regstudents tr:nth-child(even){
+    background-color: #ddd;
+
+}
+
+
+#regstudents tr:hover{
+    background-color: #f2f2f2;
+
+}
+
+
